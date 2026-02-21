@@ -3,9 +3,6 @@ I enjoy creating new things, thinking in detail, and turning ideas into solid pr
 
 I believe in team power — a motivated, fun, and growth-oriented team is my biggest drive.
 
-Experience since 2015, currently at Pazarama.
-Previously worked at Ziraat Teknoloji, Digital Planet, and Hepsiburada.
-
 Tech stack:
 .NET Core, JavaScript, TypeScript, React, Vue.js, HTML, CSS
 PostgreSQL, Oracle/PLSQL
