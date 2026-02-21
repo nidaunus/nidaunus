@@ -1,4 +1,17 @@
-<h4 align="left">yes, i will talk about myself.<br>first of all, i don’t why but i am very funny. Actually i like the life. So, my job is big part of my life and love my job too. I think my job is just for me. Because I’m by nature like; building the new things and develop things, always learn and research new stuff, think in detail and focus on what to do. I like constantly improve myself. I’m like to do planing and programing especially work. I believe team power and if my team is funny like me, we are success to do everything. Good team and a company that want to grow and develop; this two reason enough for my motivation.<br>I have been working since 2015. first, I was worked Backend developer of Ziraat Teknoloji in Internet and Mobile Team, second i was worked Frontend developer of Digital Planet and thirdly i was working Frontend Developer of Hepsiburada in Customer Services Team and finally i have been work Senior Frontend developer of Pazarama.  I’m an expert in the .Net Core, HTML, CSS, Javascript, Typescript, React, Vue.js. And also i use to Oracle/PLSQL, postgresql as a database. And I use to know Gitlab, github, CI/CD patterns. I work with Agile methodology. In shortly this is me :)</h4>
+<h4 align="left">I’m a Senior Frontend Developer who loves building, improving, and learning constantly.
+I enjoy creating new things, thinking in detail, and turning ideas into solid products.
+
+I believe in team power — a motivated, fun, and growth-oriented team is my biggest drive.
+
+Experience since 2015, currently at Pazarama.
+Previously worked at Ziraat Teknoloji, Digital Planet, and Hepsiburada.
+
+Tech stack:
+.NET Core, JavaScript, TypeScript, React, Vue.js, HTML, CSS
+PostgreSQL, Oracle/PLSQL
+GitHub, GitLab, CI/CD, Agile
+
+Always curious. Always improving.</h4>
 
 ###
 
